@@ -3,7 +3,7 @@
     File: lab1demo.c
     (Professor Demonstrated Solution)
 	
-    Author: [Your Name]
+    Author: [Sanvi Arora]
     Seneca email: [Your Seneca email address]
 
     To compile program on matrix type:
@@ -14,5 +14,5 @@
 ***************************************************************/
 
 // Uncomment the line below IF you are using Visual Studio (MSVC compiler)
-// #define _CRT_SECURE_NO_WARNINGS
+ #define _CRT_SECURE_NO_WARNINGS
 
